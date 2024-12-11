@@ -34,7 +34,7 @@ try {
 Clone the project to your local environment:
 
 ```bash
-git clone https://github.com/your-username/laravel-exception-to-discord.git
+git https://github.com/engbeekin/Laravel-Discord-Exception-Handler.git
 cd laravel-exception-to-discord
 ```
 ### 2. Set Up the Environment
